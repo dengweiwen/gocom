@@ -1,0 +1,2 @@
+# gocom
+golang   common
